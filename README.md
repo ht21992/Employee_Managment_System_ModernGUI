@@ -1,6 +1,6 @@
-# Employee-Management-System
+# Employee-Management-System (Modern GUI)
 
-## GUI-Based Employee Management System using SQLite,pyqt5,pysid2
+## GUI-Based Employee Management System using SQLite,pyqt5,pyside2
 
 I have re-designed an application using Pyqt5 and SQLite to manage all employees of a hypothetical company.
 Each employee has an Employee Id (which acts as Primary Key for our table), Name, Lastname, Age, Position, and Email address. This Company will hire people who are older than 18 and younger than 70 years old.
@@ -36,5 +36,6 @@ check the requirments.txt
 - Interesting data (such as number of employees, salary per position, average salary per position)
 - News Center
 
-### Pervious Project
+#### Pervious Employee-Management-System
+
 https://github.com/ht21992/Employee-Management-System
